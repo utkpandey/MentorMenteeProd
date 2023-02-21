@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/MentorMenteeProd/static/js/main.923e562e.js",
+    "main.js": "/MentorMenteeProd/static/js/main.981436a7.js",
     "index.html": "/MentorMenteeProd/index.html",
-    "main.923e562e.js.map": "/MentorMenteeProd/static/js/main.923e562e.js.map"
+    "main.981436a7.js.map": "/MentorMenteeProd/static/js/main.981436a7.js.map"
   },
   "entrypoints": [
-    "static/js/main.923e562e.js"
+    "static/js/main.981436a7.js"
   ]
 }
