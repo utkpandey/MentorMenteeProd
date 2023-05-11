@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/MentorMenteeProd/static/js/main.42a2cc6f.js",
+    "main.js": "/MentorMenteeProd/static/js/main.c0a38d53.js",
     "static/media/male.jpg": "/MentorMenteeProd/static/media/male.ea23ed91df6e946e685d.jpg",
     "static/media/female.jpg": "/MentorMenteeProd/static/media/female.d9b7f58df27353f0a7fc.jpg",
     "static/media/power.png": "/MentorMenteeProd/static/media/power.e8e39d37bf9416f0dfdc.png",
     "index.html": "/MentorMenteeProd/index.html",
-    "main.42a2cc6f.js.map": "/MentorMenteeProd/static/js/main.42a2cc6f.js.map"
+    "main.c0a38d53.js.map": "/MentorMenteeProd/static/js/main.c0a38d53.js.map"
   },
   "entrypoints": [
-    "static/js/main.42a2cc6f.js"
+    "static/js/main.c0a38d53.js"
   ]
 }
